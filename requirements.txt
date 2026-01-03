@@ -7,4 +7,4 @@ google-auth-oauthlib
 google-auth-httplib2
 requests
 edge-tts
-moviepy
+google-generativeai
