@@ -1,0 +1,24 @@
+# Secrets
+/.venv
+.streamlit/secrets.toml
+**/*.toml
+.env
+.venv
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+
+# Heavy Media Files (Don't push these!)
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.png
+temp_video.mp4
+temp_audio.mp3
+
+# System
+.DS_Store
